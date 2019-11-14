@@ -29,7 +29,7 @@ public class Ball : MonoBehaviour {
         {
             Destroy(other.gameObject);
             sayac++;
-            sayactext.text = "For Win <= " + sayac + "/" + toplanacak_obje_sayisi;
+            sayactext.text = "Collected Cubes : " + sayac + "/" + toplanacak_obje_sayisi;
             if (sayac == toplanacak_obje_sayisi)
             {
                 oyunbittitext.text = "COMPLETE";

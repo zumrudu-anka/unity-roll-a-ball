@@ -392,7 +392,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: -50}
-  m_SizeDelta: {x: 187.79999, y: 100}
+  m_SizeDelta: {x: 263.2, y: 100}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &236342696
 MonoBehaviour:
@@ -427,7 +427,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: For Win <= 0/8
+  m_Text: 'Collected Cubes : 0/8'
 --- !u!222 &236342697
 CanvasRenderer:
   m_ObjectHideFlags: 0
